@@ -1,6 +1,8 @@
 
 #header {
   background: whitesmoke url(ausnog-web-logo.png) left no-repeat;
+  padding-top:50px; 
+  margin-bottom:50px;
 }
 
 
@@ -18,6 +20,19 @@ h1 {
 p{
     color: #111111;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 9pt;
+    font-size: 12pt;  
+}
+
+a{
+    color: #f07;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;  
+}
+
+li{
+    color: #111111;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    text-indent: 4;
     
 }
